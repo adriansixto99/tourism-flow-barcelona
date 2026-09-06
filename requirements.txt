@@ -1,0 +1,15 @@
+# Dependencias comunes
+numpy
+pandas
+matplotlib
+scikit-learn
+matplotlib
+seaborn
+requests
+holidays
+
+# Modelos
+xgboost
+pmdarima
+statsmodels
+tensorflow
