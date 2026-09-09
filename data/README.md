@@ -20,7 +20,7 @@ configurada:
 
 ## Productos intermedios
 
-El notebook `notebooks/code.ipynb` genera o utiliza también estos productos del
+El notebook `notebooks/data_etl.ipynb` genera o utiliza también estos productos del
 flujo de preparación:
 
 - `pernoctaciones_limpio.csv`: serie objetivo mensual limpia a partir de `2074.csv`.
@@ -49,8 +49,3 @@ Todas las fuentes deben convertirse a frecuencia mensual y alinearse mediante un
 pernoctaciones en Barcelona (`Pernoctaciones`). El dataset final de modelado
 descrito en el TFM contiene aproximadamente 130 observaciones mensuales y 25
 variables después de la ingeniería de características.
-
-Los notebooks `*_code.ipynb` leen `DATASET_TFM_FINAL.csv` o
-`DATASET_TFM_AVANZADO.csv` según el pipeline. Comprueba la ruta exacta definida
-en cada notebook antes de ejecutar y no confundas estos productos con el
-`_test_DATASET_TFM_FINAL.csv` utilizado por otra versión de los notebooks.
