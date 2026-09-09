@@ -39,8 +39,6 @@ flujo de preparación:
 - [Google Trends](https://trends.google.es/)
 - [datos.gob.es](https://datos.gob.es/)
 
-Antes de reproducir el análisis, comprueba las condiciones de acceso, licencias,
-frecuencia de actualización y condiciones de uso vigentes de cada fuente.
 
 ## Notas de preparación
 
