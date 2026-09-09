@@ -11,7 +11,7 @@ El cuaderno produce visualizaciones para:
 - La matriz de correlación de las variables.
 - La comparación entre predicciones y observaciones del conjunto de prueba.
 
-`notebooks/code.ipynb` genera las figuras exploratorias y de diagnóstico del
+`notebooks/data_etl.ipynb` genera las figuras exploratorias y de diagnóstico del
 preprocesamiento, incluida la evolución de la serie, la descomposición
 estacional, ACF/PACF y la matriz de correlación. Sus bloques de algoritmo usan
 el estilo visual de los gráficos adjuntos al informe. Los notebooks individuales
