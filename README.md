@@ -54,7 +54,6 @@ tourism-flow-barcelona/
 ├── figures/
 │   └── README.md
 ├── requirements.txt
-└── .gitignore
 ```
 
 ## Flujo de trabajo analítico
