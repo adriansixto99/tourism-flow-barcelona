@@ -37,7 +37,10 @@ el simple número de visitantes.
 
 ```text
 tourism-flow-barcelona/
-├── README.md
+├── data/
+│   └── README.md
+├── figures/
+│   └── README.md
 ├── notebooks/
 │   ├── lr_code.ipynb
 │   ├── lstm_code.ipynb
@@ -47,12 +50,9 @@ tourism-flow-barcelona/
 │   ├── data_etl.ipynb
 │   └── ANNOTATION_PLAN.md
 │   └── README.md
-├── data/
-│   └── README.md
 ├── reports/
 │   └── README.md
-├── figures/
-│   └── README.md
+├── README.md
 ├── requirements.txt
 ```
 
