@@ -22,7 +22,7 @@ El cuaderno sigue esta narrativa:
 
 ## Orden recomendado de lectura
 
-1. `data_etl.ipynb`: documenta el proceso de extracción y preprocesamiento de los datos empleados posteriormente en cada uno de los algortimos.
+1. `data_etl.ipynb`: documenta el proceso de extracción y preprocesamiento de los datos empleados posteriormente en cada uno de los algoritmos.
 1. `sarima_code.ipynb`: baseline univariante, estacionalidad mensual y validación walk-forward one-step-ahead.
 2. `lr_code.ipynb`: regresión lineal/Ridge sobre variables seguras y objetivo diferenciado.
 3. `rf_code.ipynb`: ensamble no lineal optimizado con RandomizedSearchCV y GridSearchCV.
